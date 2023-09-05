@@ -1,0 +1,33 @@
+
+
+
+body{
+    background-image: url('imagens/ftfundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    }
+    .caixaFundo{
+        padding: 15px;
+        width: 650px;
+        height: 580px;
+        background-color:honeydew;
+        text-align: center;
+        margin: 200px auto 0 auto;
+        border-radius: 50px;
+    }
+    .botao{
+      
+        margin-right: 10px;
+       margin-bottom: 30px;
+        width: 90px;
+        height: 30px;
+        font-size: smaller;
+        font-family: Arial, Helvetica, sans-serif;
+      
+    }
+    
+    
+    
+
+    
